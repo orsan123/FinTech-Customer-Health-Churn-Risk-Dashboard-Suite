@@ -1,4 +1,5 @@
-# FinTech Customer Health & Churn Risk Dashboard Suite | \n Power BI, MySQL, Python
+# FinTech Customer Health & Churn Risk Dashboard Suite | 
+Power BI, MySQL, Python
 
 Built to help 
 GTM team monitor business health, customer engagement, support operations and detect churn early.
