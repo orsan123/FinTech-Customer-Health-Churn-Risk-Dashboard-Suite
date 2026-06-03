@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/cfa4a883-379d-4259-89ed-11987888450b
 
 ## Business Impact
 
-This dashboard suite helps the company improve retention by giving both leadership and operational teams teh ability to track key metrics and make data informed decisions.
+This dashboard suite helps the company improve retention by giving both leadership and operational teams the ability to track key metrics and make data informed decisions.
 
 - **For leadership:** It provides a clear exectuive view of the overall business health.
 - **For GTM teams:** It helps monitor monthly engagement of active companies and detect churn risk for companies in thier early lifecycle stage.
