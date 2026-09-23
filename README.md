@@ -16,8 +16,8 @@ This project was built for a corporate card and expense management company where
 
 The goal was to track:
 - monthly business performance
-- monthly active customer engagement
-- early stage churn risk
+- monthly (active customer) engagement
+- customer churn risk
 - support operations
 
 This helps both high-level executives and operational teams make faster data-driven decisions
