@@ -20,7 +20,7 @@ The goal was to track:
 - customer churn risk
 - support operations
 
-This helps both high-level executives and operational teams make faster data-driven decisions
+This helps both high-level executives and operational teams make informed decisions faster.
 
 
 ## Objective
